@@ -1,6 +1,6 @@
 Mission profile and performance tracker for commerical aircrafts. Including flight phases: take-off, climb, cruise, descent and landing. MATLAB based.
 
-Athmospheric Paramters:
+Athmospheric Parameters:
 ![velo_fonk](https://github.com/user-attachments/assets/7471e6f7-e2dc-4661-a6c4-0dd780111b0a)
 
 Take-off Performance:
